@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LauraKaraliene
 - 👀 I’m interested in nature, dogs, hiking, technology and space.
-- 🌱 I’m currently learning Front-End development at Noroff School of Technology
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently studying Front-End development at Noroff School of Technology and Digital Media
+- 💞️ Located in Ålesund, Norway
 - 📫 How to reach me:
 
 - 👋 Laura.Karaliene@stud.noroff.no
