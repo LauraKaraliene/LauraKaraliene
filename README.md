@@ -4,8 +4,7 @@
 - 🌍 Located in Ålesund, Norway
   
 
-
-  
+<br>
 🌱 Socials:
 
 <p align="left">
@@ -19,12 +18,12 @@
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
   </a> 
 </p>
+</br>
 
 
 
 
-
-🌱 Tech skils:
+🌱 Tech skills:
 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
