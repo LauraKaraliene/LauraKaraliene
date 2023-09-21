@@ -13,6 +13,14 @@
 [![alt text][5.1]][5]
 [![alt text][6.1]][6]
 
+[1]: http://www.twitter.com/carlsednaoui
+
+[2]: http://www.facebook.com/sednaoui](https://www.facebook.com/LAURA_KARALIENE
+[3]: https://plus.google.com/+CarlSednaoui
+[4]: http://carlsed.tumblr.com
+[5]: http://dribbble.com/carlsednaoui
+[6]: http://www.github.com/carlsednaoui
+
 
 
 
