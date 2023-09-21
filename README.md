@@ -1,4 +1,4 @@
-![facebook](https://github.com/LauraKaraliene/LauraKaraliene/assets/98472609/6c3541db-0e4d-4d5e-9121-f6f3b2a224b1)- 👋 Hi there, I’m @LauraKaraliene
+- 👋 Hi there, I’m @LauraKaraliene
 - 👀 I’m interested in nature, dogs, hiking, technology and space.
 - 📖 I’m currently studying Front-End development at Noroff School of Technology and Digital Media
 - 🌍 Located in Ålesund, Norway
