@@ -6,10 +6,12 @@
   
 🌐 Socials:
 
+![linkedin](https://github.com/LauraKaraliene/LauraKaraliene/assets/98472609/1109bb72-dde2-4a62-9ad0-65cbea6378e4)
 
-![facebook (1)](https://github.com/LauraKaraliene/LauraKaraliene/assets/98472609/28bfe9bd-1868-4a1d-949e-51aa91846635)
+![facebook (1)](https://github.com/LauraKaraliene/LauraKaraliene/assets/98472609/28bfe9bd-1868-4a1d-949e-51aa91846635) ![instagram (1)](https://github.com/LauraKaraliene/LauraKaraliene/assets/98472609/65ccd731-e712-44ec-a292-20fb82470342) 
 
-![instagram (1)](https://github.com/LauraKaraliene/LauraKaraliene/assets/98472609/8267d22d-3848-44e6-a91e-13be9e8cc727)
+
+
 
 
 LauraKaraliene/LauraKaraliene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
