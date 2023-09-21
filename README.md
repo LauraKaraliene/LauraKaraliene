@@ -6,9 +6,12 @@
   
 🌐 Socials:
 
-![linkedin](https://github.com/LauraKaraliene/LauraKaraliene/assets/98472609/1109bb72-dde2-4a62-9ad0-65cbea6378e4)
-
-![facebook (1)](https://github.com/LauraKaraliene/LauraKaraliene/assets/98472609/28bfe9bd-1868-4a1d-949e-51aa91846635) ![instagram (1)](https://github.com/LauraKaraliene/LauraKaraliene/assets/98472609/65ccd731-e712-44ec-a292-20fb82470342) 
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][3.1]][3]
+[![alt text][4.1]][4]
+[![alt text][5.1]][5]
+[![alt text][6.1]][6]
 
 
 
