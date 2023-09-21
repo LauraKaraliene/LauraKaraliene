@@ -1,3 +1,5 @@
+<h2>🌱 About me:</h2>
+
 - 👋 Hi there, I’m @LauraKaraliene
 - 📖 I’m currently studying Front-End development at Noroff School of Technology and Digital Media
 - 👀 I’m interested in nature, dogs, hiking, technology and space.
@@ -5,7 +7,7 @@
   
 
 <br>
-🌱 Socials:
+<h2>🌱 Socials:</h2>
 
 <p align="left">
  <a href="www.linkedin.com/in/laura-karaliene-31476657" target="_blank">
@@ -23,7 +25,7 @@
 
 
 
-🌱 Tech skills:
+<h2>🌱 Tech skills:</h2>
 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
