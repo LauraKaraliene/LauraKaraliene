@@ -4,7 +4,13 @@
 - 📖 I’m currently studying Front-End development at Noroff School of Technology and Digital Media
 - 👀 I’m interested in nature, dogs, hiking, technology and space.
 - 🌍 Located in Ålesund, Norway
+
   
+ <h2>🌱 Currently working on:</h2> 
+ 
+ - ✏️ Portfolio
+ 
+ - 📖 Learning Github Actions
 
 <br>
 <h2>🌱 Socials:</h2>
