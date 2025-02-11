@@ -8,9 +8,7 @@
   
  <h2>🌱 Currently working on:</h2> 
  
- - ✏️ Portfolio
- 
- - 📖 Learning Github Actions
+ - 📖 Learning React and Tailwind
 
 <br>
 <h2>🌱 Socials:</h2>
