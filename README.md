@@ -4,7 +4,7 @@
 - 🛠 Planning to expand my skills with backend development in the future
 - 👀 Interested in nature, dogs, hiking, technology, and space
 
-
+<br>
  <h2>🌱 Currently working on:</h2> 
  
 - 🎓 Final exam project: building an online booking platform with React, Tailwind CSS, and API integration.
