@@ -8,7 +8,7 @@
   
  <h2>🌱 Currently working on:</h2> 
  
- - 📖 Learning React and Tailwind
+- 🎓 Final exam project: building an online booking platform with React, Tailwind CSS, and API integration.
 
 <br>
 <h2>🌱 Socials:</h2>
