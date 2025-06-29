@@ -1,11 +1,10 @@
 <h2>🌱 About me:</h2>
 
-- 👋 Hi there, I’m @LauraKaraliene
-- 📖 I’m currently studying Front-End development at Noroff School of Technology and Digital Media
-- 👀 I’m interested in nature, dogs, hiking, technology and space.
-- 🌍 Located in Ålesund, Norway
+- 🎓 Front-End development student at Noroff School of Technology and Digital Media
+- 🛠 Planning to expand my skills with backend development in the future
+- 👀 Interested in nature, dogs, hiking, technology, and space
 
-  
+
  <h2>🌱 Currently working on:</h2> 
  
 - 🎓 Final exam project: building an online booking platform with React, Tailwind CSS, and API integration.
