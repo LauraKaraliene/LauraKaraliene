@@ -7,7 +7,7 @@
 <br>
  <h2>🌱 Currently working on:</h2> 
  
-- 🎓 Final exam project: building an online booking platform with React, Tailwind CSS, and API integration.
+- My portfolio.
 
 <br>
 <h2>🌱 Socials:</h2>
